@@ -1,0 +1,20 @@
+<Root>
+  <Jugador nombre="cr7">
+    <Puntuacion>0</Puntuacion>
+  </Jugador>
+  <Jugador nombre="cr7">
+    <Puntuacion>500</Puntuacion>
+  </Jugador>
+  <Jugador nombre="messie">
+    <Puntuacion>800</Puntuacion>
+  </Jugador>
+  <Jugador nombre="w">
+    <Puntuacion>3000</Puntuacion>
+  </Jugador>
+  <Jugador nombre="g">
+    <Puntuacion>4070</Puntuacion>
+  </Jugador>
+  <Jugador nombre="">
+    <Puntuacion>4145</Puntuacion>
+  </Jugador>
+</Root>
