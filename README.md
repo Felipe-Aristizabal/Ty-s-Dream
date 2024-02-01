@@ -23,4 +23,4 @@ Timmy's Mind Adventure offers a blend of action, exploration, and personal disco
 ## Credits
 - **Andrés Felipe Aristizábal Miranda:** [Unity Developer](https://www.linkedin.com/in/felipearistizabal/)
 - **Hector Fabio Romero Bocanegra:** [Unity Developer](https://www.linkedin.com/in/hector-f-romero/)
-- **Juliana Loaiza Mejía** [2D Illustrator]()
+- **Juliana Loaiza Mejía** [UI Designer](https://www.behance.net/julianaloaiza5)
