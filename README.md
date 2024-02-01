@@ -13,13 +13,14 @@ Timmy finds himself in a deep slumber, trapped in a world shaped by his own imag
 - **UI Elements:** Interface displaying health and magic levels.
 - **Main Menu:** Navigate through game options and settings.
 
-## Project Constraints
-- **Development Time:** Maximum of five weeks for project completion.
-- **Experience Level:** The development team has limited experience with Unity engine.
+## Project Constraints and Context
+- **Development Period:** The project was developed over a span of five weeks.
+- **Team Experience:** The development was conducted by a team with limited experience in using the Unity engine.
+- **Coursework Context:** This project was a part of the coursework for the Computer Graphics class at Universidad Autónoma de Occidente, conducted between May and June of 2022.
 
 Timmy's Mind Adventure offers a blend of action, exploration, and personal discovery, set within the imaginative confines of a child's mind. It's a tale of overcoming fears and finding strength in unlikely places.
 
 ## Credits
-- **Felipe:** [Unity Developer](https://www.linkedin.com/in/felipearistizabal/)
-- **Hector:** [Unity Developer](https://www.linkedin.com/in/hector-f-romero/)
-- **Jose** [2D Illustrator]()
+- **Andrés Felipe Aristizábal Miranda:** [Unity Developer](https://www.linkedin.com/in/felipearistizabal/)
+- **Hector Fabio Romero Bocanegra:** [Unity Developer](https://www.linkedin.com/in/hector-f-romero/)
+- **Juliana Loaiza Mejía** [2D Illustrator]()
